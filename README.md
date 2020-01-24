@@ -4,7 +4,7 @@
 
 ### Using Git
 
-1. Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
+1. Locate your Sublime Text 3 `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
 	Or by using a terminal:
 
@@ -12,7 +12,7 @@
 
 2. Once inside the `Packages` directory, clone the theme repository using the command below:
 
-    	git clone https://github.com/jermp/github_sublimetext_theme.git
+    	git clone https://github.com/jermp/github_cplusplus_theme.git
 
 ### Download Manually
 
