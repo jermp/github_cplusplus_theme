@@ -22,4 +22,5 @@
 
 ## Activating the theme
 
-`Preferences -> Color Scheme -> GitHub`.
+Follow this wizard:
+`Preferences -> Select Color Scheme... -> github`.
